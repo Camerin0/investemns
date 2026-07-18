@@ -1,0 +1,121 @@
+# GLOSARIO Y METODOLOGÍA DE INVERSIÓN
+
+Este documento define los términos clave y las fórmulas analíticas que el asistente debe utilizar para interpretar los datos del portafolio.
+
+## 1. DEFINICIÓN DE CLASES DE ACTIVOS
+* **IPC (Renta Variable Local):** Acciones del mercado mexicano. Buscan capturar el crecimiento económico local.
+* **S&P 500 (Renta Variable USA):** Acciones de las 500 empresas más grandes de EE. UU. Es el motor principal de crecimiento.
+* **EX-USA (Renta Variable Internacional):** Acciones de mercados desarrollados y emergentes fuera de EE. UU. Funciona como diversificación global.
+* **Fibras (Bienes Raíces):** Fideicomisos de infraestructura y bienes raíces en México. Su objetivo principal es la generación de flujo pasivo mediante dividendos/distribuciones.
+
+## 2. REGLAS DE CÁLCULO
+* **Rendimiento Bruto:** Calculado como `(Valor Actual - Costo de Adquisición) / Costo de Adquisición`.
+* **Desviación de Asignación:** Diferencia aritmética entre el porcentaje actual de un activo en `10_portafolio.csv` y su porcentaje objetivo en `21_Politica_de_Asignacion_Activos
+
+* **Análisis completo de acciones al estilo de Wall Street**
+Actúa como un analista senior de investigación de acciones de Wall Street.
+Análiza la acción: [TICKER].
+Incluye:
+• Modelo de negocio y flujos de ingresos
+• Ventajas competitivas (moat)
+• Tendencias de la industria
+• Salud financiera (crecimiento de ingresos, margen, deuda)
+• Riesgos clave
+• Valorización vs competidores
+• Síntomas de toro, oso y escenario de base
+• Perspectiva de 12 a 24 meses
+Explica en términos simples pero con perspectivas profesionales.
+
+* **Profundo análisis financiero**
+Análise los últimos 5 años de finanzas para [COMPANY/TICKER].
+Desglosar:
+• Crecimiento de las ventas
+• Tendencias de la renta neta
+• Flujo de efectivo gratuito
+• Margen de beneficio
+• Niveles de deuda
+• Rendimiento de las acciones
+Explica si la empresa es financieramente fuerte o débil.
+
+* **Análisis del Avantaje Competitivo (Moat)**
+Evaluea el moat competitivo de [COMPANY].
+Discutir:
+• Fortaleza de la marca
+• Efectos de red
+• Costos de cambio
+• Ventaja en costos
+• Patentes o tecnología propietaria
+Comparar con los principales competidores y calificar el moat del 1 al 10.
+
+4. Valoración de acciones (Como un Banco de Inversiones)
+Realizar un análisis de valoración de [TICKER].
+Incluye:
+• Comparación de la proporción P/E
+• Estimación de flujo de efectivo con descuento (DCF)
+• Industry average valuation
+• Conclusión infravalorada o sobrevalorada
+
+* **Análisis de Riesgos**
+Identificar los mayores riesgos de invertir en [EMPRESA].
+Incluye:
+• Riesgos económicos
+• Interrupción de la industria
+• Competencia
+• Amenazas reguladoras
+• Deuda o riesgos financieros
+Clasificación de riesgos de lo más o menos peligroso. 
+
+* **Análisis potencial de crecimiento**
+Analizar el potencial de crecimiento futuro de [EMPRESA].
+Considere:
+• Tamaño del mercado
+• Tasa de crecimiento de la industria
+• Oportunidades de expansión
+• Nuevos productos
+• AI or technology advantages
+Estimar el crecimiento potencial en los próximos 5-10 años. 
+
+* **Perspectiva del inversor institucional**
+Actúa como un gerente de cartera de fondos de cobertura.
+Evalúe si [TICKER] es una buena inversión a largo plazo.
+Incluye:
+• Por qué las instituciones podrían comprarlo
+• Por qué podrían evitarlo
+• Catalizadores de claves
+• Tesis de inversión.
+
+* **Debate toro vs oso**
+Crear un debate entre dos analistas sobre [TICKER].
+Un analista es alcista.
+Un analista es bajista.
+Cada uno debe presentar argumentos respaldados por datos.
+Fin con una conclusión equilibrada. 
+
+* **Desglose del informe de ganancias**
+Explique el último informe de ganancias de [EMPRESA].
+Descomposición:
+• Ingresos vs expectativas
+• Ganancias vs expectativas
+• Métricas clave para los inversores
+• Orientación de gestión
+• Reacción del mercado.
+
+* **¿Debería comprar este stock?**
+Evalúe si [TICKER] es una buena inversión hoy en día.
+Incluye:
+• Perspectivas a corto plazo (1 año)
+• Perspectivas a largo plazo (5+ años)
+• Catalizadores de claves
+• Grandes riesgos
+• Veredicto final: Comprar, mantener o evitar
+
+* **Analisis de Fibra**
+Actúa como un analista financiero especializado en Real Estate Investment Trusts (REITs). Realiza un análisis exhaustivo de la fibra que te pregunte utilizando los datos de su reporte trimestral más reciente.
+Por favor, desglosa e interpreta los siguientes indicadores bajo una óptica de inversión de valor:
+NAV por CBFI (Net Asset Value): Compara el valor intrínseco de los activos netos por certificado contra el precio de mercado actual. ¿Cuál es el porcentaje de descuento o sobreprecio?
+LTV (Loan to Value): Analiza el nivel de apalancamiento. ¿Qué porcentaje representa la deuda sobre el valor total de los activos? (Considera un límite saludable del 35%-40%).
+NOI (Net Operating Income): Evalúa la eficiencia operativa. ¿El ingreso operativo neto está creciendo orgánicamente en comparación con el año anterior?
+EBITDA: ¿Cuál es la capacidad de la FIBRA para generar flujo antes de intereses, impuestos y depreciaciones? Evalúa el margen EBITDA.
+FFO (Funds From Operations) y AFFO (Adjusted FFO): ¿Cuál es el flujo de efectivo real disponible para distribuir dividendos? Resta el mantenimiento necesario (CAPEX) para llegar al AFFO.
+Dividend Yield y Payout Ratio: ¿Qué porcentaje del AFFO se está distribuyendo? ¿Es un dividendo sostenible a largo plazo?
+Conclusión: Basado en estos números, ¿existe un margen de seguridad suficiente? ¿La gestión está priorizando al inversionista o el crecimiento desmedido con deuda?"

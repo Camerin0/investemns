@@ -1,0 +1,16 @@
+# POLÍTICA DE ASIGNACIÓN OBJETIVO DE ACTIVOS (ASSET ALLOCATION)
+
+Este documento define la distribución ideal del capital que el portafolio debe mantener para cumplir con la estrategia de riesgo y rendimiento establecida.
+
+## 1. PORCENTAJES OBJETIVO
+
+| Clase de Activo | Tipo de Activo | Porcentaje Objetivo |
+| :--- | :--- | :--- |
+| **S&P 500** | Renta Variable EE. UU. | 20.0% |
+| **IPC** | Renta Variable México | 5.0% |
+| **EX-USA** | Renta Variable Internacional | 5.0% |
+| **Fibras** | Bienes Raíces Local | 70.0% |
+
+## 2. REGLAS DE REBALANCEO
+* **Bandas de Tolerancia:** Se permite una desviación máxima de `+/- 50.0%` en cualquier clase de activo antes de obligar a un rebalanceo.
+* **Acción de Rebalanceo:** Si un activo supera o cae por debajo de su banda de tolerancia, el asistente debe recomendar pausar compras en los activos sobreponderados y utilizar el flujo nuevo para comprar los activos infraponderados.

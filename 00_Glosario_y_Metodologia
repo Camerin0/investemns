@@ -10,7 +10,7 @@ Este documento define los términos clave y las fórmulas analíticas que el asi
 
 ## 2. REGLAS DE CÁLCULO
 * **Rendimiento Bruto:** Calculado como `(Valor Actual - Costo de Adquisición) / Costo de Adquisición`.
-* **Desviación de Asignación:** Diferencia aritmética entre el porcentaje actual de un activo en `10_portafolio.csv` y su porcentaje objetivo en `21_Politica_de_Asignacion_Activos
+* **Desviación de Asignación:** Diferencia aritmética entre el porcentaje actual de un activo en `portafolio.csv` y su porcentaje objetivo en `21_Politica_de_Asignacion_Activos
 
 * **Análisis completo de acciones al estilo de Wall Street**
 Actúa como un analista senior de investigación de acciones de Wall Street.
